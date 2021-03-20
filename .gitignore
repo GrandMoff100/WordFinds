@@ -1,0 +1,13 @@
+# Repl.it
+*.toml
+*.lock
+.replit
+
+# Pycache
+*.py[cod]
+__pycache__/
+
+# Distribution
+*.egg-info
+dist/
+build/
